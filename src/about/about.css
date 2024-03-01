@@ -1,0 +1,94 @@
+.about-container{
+   
+        
+        width:80%;
+       
+        margin:0 auto;
+       
+    }
+    .about-container h2{
+        color:var(--white);
+        font-size: 3em;
+    }
+    .horizontal-line {
+        height: 2px;
+       width:30%;
+        background-color: var(--grey);
+        position: relative;
+        top: -26px;
+        left: 373px;
+    }
+    .about-container p {
+        margin: 25px 117px 0px 8vw;
+        color: var(--grey);
+        font-size: 1.3em;
+        width:590px;
+    }
+    .image-container {
+        height: 280px;
+        width: 280px;
+        background: url("../assets/portfolio-image.png") no-repeat center;
+        object-fit: contain;
+        position: relative;
+        top: -90px;
+    left: 808px;
+        border-radius: 50%;
+        transition: all 0.3s;
+        filter: grayscale(1);
+        border: 5px solid white;;
+    }
+    .image-container:hover{
+        border-radius: 25px;
+      
+        filter: grayscale(0);
+    }
+    @media (min-width:320px) and (max-width:768px) {
+        .image-container{
+          display: block;
+          margin: 80px auto;
+          position:static;
+        }
+      
+        .about-container{
+          width:90% ;
+          
+        }
+        .about-container .horizontal-line {
+          width: 40%;
+         
+          top: -16px;
+          left: 165px;
+      }
+       
+        .about-container p{
+          font-size: 2.5vh ;
+          margin:10px ;
+          width:100%;
+        }
+        .about-container h2{
+          font-size: 4.5vh;
+          margin:10px 0pc 0pc 10px;
+        }
+       
+        
+      }
+      @media (min-width: 769px) and (max-width:1200px){
+        .image-container{
+         
+          margin: 80px auto;
+          position:static;
+        }
+        .about-container{
+          padding-right: 67px;
+        }
+        .about-container h2{
+          margin-left: 8vw;
+        }
+      }
+      @media (min-width: 1201px) and (max-width:1250px){
+        .image-container{
+          left:685px;
+        }
+      }
+     
+    

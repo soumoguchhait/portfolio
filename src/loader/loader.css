@@ -1,0 +1,31 @@
+.loader-container{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    border-width: 2px;
+    border-style: solid;
+    border-top-color: var(--green);
+    border-right-color: var(--green);
+    border-bottom-color: transparent;
+    border-left-color: var(--grey);
+    border-image: initial;
+    display: inline-block;
+    animation: 0.75s linear 0s infinite normal both running loader-spinner;
+    position:absolute;
+    top:43%;
+    left:43%;
+    transform: translate(-50%,-50%);
+}
+@keyframes loader-spinner {
+    0% {
+        transform: rotate(0deg) scale(1);
+    }
+    
+    50% {
+        transform: rotate(180deg) scale(0.8);
+    }
+    
+    100% {
+        transform: rotate(360deg) scale(1);
+    }
+}
