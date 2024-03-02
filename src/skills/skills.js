@@ -14,6 +14,9 @@ const Skills=()=>{
             <div className="languages"> <i className="devicon-nodejs-plain-wordmark"></i></div>
             <div className="languages"> <i className="devicon-express-original-wordmark"></i></div>
             <div className="languages"> <i className="devicon-mongodb-plain-wordmark"></i></div>
+            <div className="languages"> <i className="devicon-github-original-wordmark"></i></div>
+           
+
           
         </div>
         </>

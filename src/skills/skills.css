@@ -35,6 +35,10 @@
 
     transform: rotateY(720deg) scale(1.2);
 }
+.skills-container > div:last-child {
+    grid-column: 2 / span 1; 
+    justify-self: center; 
+}
 @media(min-width:320px) and (max-width:768px){
     .skills-container{
         grid-template-columns: auto auto;
