@@ -12,7 +12,7 @@ const Navbar = () => {
   };
 
   const toggleMenu = () => {
-    const show = document.querySelector('.menu-container');
+    // const show = document.querySelector('.menu-container');
     const a = document.querySelector('.dropdown-items');
     a.classList.toggle('a');
   };

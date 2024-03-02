@@ -39,9 +39,11 @@
         width: 3px;
         background-color: var(--grey);
         position: fixed;
-        top: -55px;
-        right: -90px;
-        transform: rotate(90deg);
+        
+       
+        right: 50px;
+        transform: rotate(180deg);
+        bottom: 243px;
     }
     .vertical-container-items a ,.vertical-text a{
         color: var(--grey);
@@ -99,5 +101,7 @@
 
 
       @media only screen and (min-width: 1200px){
-      
+        .vertical-line2{
+            right:80px;
+        }
       }

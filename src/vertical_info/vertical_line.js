@@ -18,8 +18,9 @@ const Vertical=()=>{
         </div>
         
        <p className='vertical-text'><a href="mailto:soumoguchhait8587@gmail.com">soumoguchhait8587@gmail.com</a>
-       <div className='vertical-line2'></div>
+     
        </p>
+       <div className='vertical-line2'></div>
         </>
     )
 };
