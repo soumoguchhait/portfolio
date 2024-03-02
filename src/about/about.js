@@ -15,7 +15,7 @@ const About=(props)=>{
             
          </p>
          
-         <p className="about-info">Knowledgeable, data-driven, and adaptive web developer with 2 years’ coding experience and Bachelor
+         <p className="about-info">Knowledgeable, data-driven, and adaptive web developer with 3 years’ coding experience and Bachelor
              of Computer Application(BCA) degree. Collaborative and detail-oriented team player with
               excellent communication skills and ability to work with a team to develop and launch websites.
                Proficient working with Git / GitHub repositories.</p>

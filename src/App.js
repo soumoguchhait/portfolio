@@ -30,13 +30,13 @@ function App() {
   const HSC = {
     schoolName: "RAISINA BENGALI SR. SEC. SCHOOL",
     schoolDate: "Apr 2011- Apr 2018",
-    hscInfo: "Completed secondary education from Raisina Bengali Senior Secondary School, specializing in the science stream, achieving a CGPA of 65",
+    hscInfo: "I completed my secondary education from Raisina Bengali Senior Secondary School, with a specialization in the science stream. During my time at Raisina, I achieved a CGPA of 65, demonstrating my commitment to academic success. This accomplishment reflects my dedication to my studies and my ability to excel in a challenging academic environment.",
   };
 
   const Graduation = {
     collegeName: "JAMIA HAMDARD UNIVERSITY", 
     collegeDate: "Aug 2018 - sep-2021",
-    graduationInfo: "- Achieved a Bachelor of Computer Application degree from Jamia Hamdard University with an impressive score of 70%, showcasing dedication and excellence.Engaged in the National Cadet Corps (NCC), actively contributing to a multitude of impactful initiatives. Demonstrated commitment and received a commendable grade B for the NCC C certificate.",
+    graduationInfo: "- During my time at Jamia Hamdard University, I successfully completed a Bachelor of Computer Application degree with a commendable score of 70%. This achievement reflects my dedication and commitment to academic excellence. In addition to my academic pursuits, I was an active member of the National Cadet Corps (NCC), where I contributed to various impactful initiatives. My commitment and hard work were recognized with a grade B for the NCC C certificate, a testament to my ability to balance multiple responsibilities and excel in both academic and extracurricular activities.",
   };
 
   const FSDC = {
