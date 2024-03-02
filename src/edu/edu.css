@@ -9,7 +9,7 @@
 }
 
 .show {
-    height: 70vh;
+    height: 50vh;
     width: 600px;
    
     position: relative;
@@ -63,7 +63,7 @@ border-left: 2px solid var(--green);
         width: 40%;
         
         top: -16px;
-        left: 155px;
+        left: 180px;
     }
       
     .edu-container h2{
@@ -105,7 +105,7 @@ border-left: 2px solid var(--green);
         top: -153px;
         left: 22vw;
         width: 60vw;
-        height:60vh;
+        height:50vh;
     }
     .edu-container{
         width:85%;

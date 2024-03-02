@@ -1,4 +1,4 @@
-.loader-container{
+.loader-container {
     width: 150px;
     height: 150px;
     border-radius: 100%;
@@ -11,10 +11,11 @@
     border-image: initial;
     display: inline-block;
     animation: 0.75s linear 0s infinite normal both running loader-spinner;
-    position:absolute;
-    top:43%;
-    left:43%;
-    transform: translate(-50%,-50%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -75px;
+    margin-left: -75px;
 }
 @keyframes loader-spinner {
     0% {

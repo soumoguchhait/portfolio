@@ -7,6 +7,7 @@ import About from './about/about';
 import Education from './edu/edu';
 import Loader from './loader/loader';
 import Contact from './contact/contact';
+import Skills from './skills/skills';
 
 
 function App() {
@@ -57,6 +58,7 @@ function App() {
           <About />
          
           <Education {...mergedData} />
+          <Skills/>
           <Contact/>
           <Vertical />
         </>
