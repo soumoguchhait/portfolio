@@ -33,7 +33,7 @@ function App() {
   };
 
   const Graduation = {
-    collegeName: "JAMIA HAMDARD UNIVERSITY",
+    collegeName: "JAMIA HAMDARD UNIVERSITY", 
     collegeDate: "Aug 2018 - sep-2021",
     graduationInfo: "- Achieved a Bachelor of Computer Application degree from Jamia Hamdard University with an impressive score of 70%, showcasing dedication and excellence.Engaged in the National Cadet Corps (NCC), actively contributing to a multitude of impactful initiatives. Demonstrated commitment and received a commendable grade B for the NCC C certificate.",
   };

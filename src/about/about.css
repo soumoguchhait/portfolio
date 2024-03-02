@@ -25,8 +25,8 @@
         width:590px;
     }
     .image-container {
-        height: 280px;
-        width: 280px;
+        height: 279px;
+        width: 279px;
         background: url("../assets/portfolio-image.png") no-repeat center;
         object-fit: contain;
         position: relative;
